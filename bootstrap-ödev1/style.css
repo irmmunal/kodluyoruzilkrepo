@@ -1,0 +1,36 @@
+* {
+    
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #E9ECEF;
+    font-family:'Courier New', Courier, monospace
+}
+
+.footer__container {
+    font-size: 14px;
+    background-color: #474948;
+    border-top: 1px solid #474948;
+    padding: 5px 15px;
+}
+
+.navbar__container {
+    background-color: lightcoral;
+}
+
+.navbar__menu {
+    float:right;
+    
+}
+
+.col-4 {
+    border-radius: 4px;
+}
+
+.card {
+    position: relative;
+    
+    
+}
+
